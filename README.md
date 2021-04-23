@@ -9,4 +9,8 @@ Based on the Classic Simon Game.
 4. If you click on the wrong button, the screen will flash red saying "Game Over"
 5. You are returned back to Level 1
 
+![Simon Game Button Blink](https://github.com/laiamanda/Simon-Game/blob/main/Simon%20Screenshots/Screenshot%20(33).png)
+![Simon Game Button Pressed](https://github.com/laiamanda/Simon-Game/blob/main/Simon%20Screenshots/Screenshot%20(34).png)
+![Game over](https://github.com/laiamanda/Simon-Game/blob/main/Simon%20Screenshots/Screenshot(35).PNG)
+
 Based on Angela Yu's Udemy
